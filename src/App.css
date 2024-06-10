@@ -1,0 +1,22 @@
+.deleteAll-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.deleteAll {
+
+  margin: 30px;
+  padding: 3px 5px;
+  color: #fff;
+  background-color: rgba(100, 148, 237, 0.902);
+  border-radius: 8px;
+  border: 1px solid #00000000;
+
+  transition: all .5s;
+}
+
+.deleteAll:hover {
+  color: rgba(100, 148, 237, 0.902);
+  background-color: #fff;
+  border: 1px solid rgba(100, 148, 237, 0.902);
+}
