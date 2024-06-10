@@ -1,6 +1,7 @@
 {
   "name": "viso",
   "version": "0.1.0",
+  "homepage": "https://khomichyehor.github.io/visoTest/",
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.19.3",
